@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402879728228",
+    "firebase_url": "https://fir-78ccc.firebaseio.com",
+    "project_id": "fir-78ccc",
+    "storage_bucket": "fir-78ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402879728228:android:24c111b2d060964eafed71",
+        "android_client_info": {
+          "package_name": "com.nadeemai.socialsites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402879728228-410ojo5l1fpt2s36e8497hvli0k62jmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB555uA7FznWfLFNa5VSPvIgSWPIqvmUHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402879728228-410ojo5l1fpt2s36e8497hvli0k62jmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
